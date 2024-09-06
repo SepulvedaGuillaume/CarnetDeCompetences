@@ -55,7 +55,7 @@ foreach ($results as $user) {
 ?>
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
 [lien github](https://github.com/SepulvedaGuillaume/TheGoodCorner)
 
