@@ -85,7 +85,8 @@ Plan d'action :
 - action 2 ✔️ : Créer un exemple simple de contexte avec un Context Provider et des composants enfants pour pratiquer la configuration et l'utilisation de useContext. 
 - action 3 ✔️ : Intégrer useContext dans un projet personnel pour gérer un état global, comme l'état d'authentification d'un utilisateur, afin de mieux comprendre comment appliquer ce concept à un projet réel.
 
-Résolution : Après avoir suivi le plan d'action, j'ai réussi à configurer et à utiliser useContext dans un projet personnel. J'ai mis en place un Context Provider pour gérer l'état d'authentification des utilisateurs, et j'ai utilisé useContext pour accéder à cet état dans plusieurs composants enfants. Cette pratique m'a permis de maîtriser la gestion d'état global avec la Context API et de l'intégrer efficacement dans mon application React.
+Résolution : 
+> Après avoir suivi le plan d'action, j'ai réussi à configurer et à utiliser useContext dans un projet personnel. J'ai mis en place un Context Provider pour gérer l'état d'authentification des utilisateurs, et j'ai utilisé useContext pour accéder à cet état dans plusieurs composants enfants. Cette pratique m'a permis de maîtriser la gestion d'état global avec la Context API et de l'intégrer efficacement dans mon application React.
 
 ## 📽️ J'en fais la démonstration
 

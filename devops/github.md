@@ -73,7 +73,7 @@ Plan d'action :
 - action 2 ✔️ : J'ai pratiqué le rebase sur une branche de test pour acquérir de l'expérience.
 
 Résolution :
-Après avoir suivi le tutoriel et pratiqué régulièrement, j'ai acquis une bonne compréhension de git rebase et je l'utilise maintenant pour maintenir un historique de commits propre dans mes projets.
+> Après avoir suivi le tutoriel et pratiqué régulièrement, j'ai acquis une bonne compréhension de git rebase et je l'utilise maintenant pour maintenir un historique de commits propre dans mes projets.
 
 ## 📽️ J'en fais la démonstration
 

@@ -69,8 +69,8 @@ Description:
 
 Plan d'action : 
 
-action 1 ✔️ : J'ai suivi un tutoriel détaillé sur les décorateurs pour comprendre leur fonctionnement.
-action 2 ✔️ : J'ai pratiqué en manipulant des décorateurs pour mon projet The Good Corner (clone le Bon Coin). Utilisation de décorateurs sur mes entités TypeORM et mes résolvers GraphQL.
+- action 1 ✔️ : J'ai suivi un tutoriel détaillé sur les décorateurs pour comprendre leur fonctionnement.
+- action 2 ✔️ : J'ai pratiqué en manipulant des décorateurs pour mon projet The Good Corner (clone le Bon Coin). Utilisation de décorateurs sur mes entités TypeORM et mes résolvers GraphQL.
 
 Résolution :
 > Après avoir suivi le tutoriel et pratiqué régulièrement, j'ai acquis une bonne compréhension de l'utilisation des décorateurs. Je les utilise maintenant pour ajouter des fonctionnalités et des métadonnées à mes classes.

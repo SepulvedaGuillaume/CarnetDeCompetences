@@ -73,7 +73,8 @@ Plan d'action :
 - action 1 ✔️ : J'ai suivi un tutoriel détaillé sur les promesses et async/await pour comprendre leur fonctionnement.
 - action 2 ✔️ : J'ai pratiqué en créant de petits projets utilisant des appels API asynchrones pour renforcer ma compréhension.
 
-Résolution : Après avoir suivi le tutoriel et pratiqué régulièrement, j'ai acquis une bonne compréhension de l'utilisation des promesses et async/await. Je les utilise maintenant pour gérer les opérations asynchrones de manière efficace dans mes projets.
+Résolution : 
+> Après avoir suivi le tutoriel et pratiqué régulièrement, j'ai acquis une bonne compréhension de l'utilisation des promesses et async/await. Je les utilise maintenant pour gérer les opérations asynchrones de manière efficace dans mes projets.
 
 ## 📽️ J'en fais la démonstration
 

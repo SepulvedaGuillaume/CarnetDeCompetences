@@ -81,7 +81,8 @@ Plan d'action :
 - action 2 ✔️ : Étudier les meilleures pratiques de sécurité pour le stockage et la gestion des tokens.
 - action 3 ✔️ : Implémenter une solution d'authentification avec JWT dans un projet personnel, en suivant les étapes de création, vérification et renouvellement des tokens.
 
-Résolution : Après avoir suivi les tutoriels et mis en œuvre les solutions dans un projet personnel, j'ai réussi à comprendre les mécanismes de JWT et à implémenter une authentification sécurisée dans mon application. J'ai également appris à gérer les sessions et à protéger les routes sensibles, garantissant ainsi une meilleure sécurité pour les utilisateurs.
+Résolution : 
+> Après avoir suivi les tutoriels et mis en œuvre les solutions dans un projet personnel, j'ai réussi à comprendre les mécanismes de JWT et à implémenter une authentification sécurisée dans mon application. J'ai également appris à gérer les sessions et à protéger les routes sensibles, garantissant ainsi une meilleure sécurité pour les utilisateurs.
 
 ## 📽️ J'en fais la démonstration
 
