@@ -31,11 +31,12 @@ test('ajoute 1 + 2 pour obtenir 3', () => {
 });
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
+[lien github](https://github.com/WildCodeSchool/cdajs-2405-projet-coup-de-main-go)
 
 Description :
+> Projet de groupe => création d'un site web pour l'échange de services entre particuliers. Création de unit tests côté backend avec jest et mock type orm couvrant la majorité des functions définis dans les resolvers (queries et mutations).
 
 ### Utilisation en production si applicable❌ / ✔️
 
